@@ -1,0 +1,10 @@
+This repository uses two licenses:
+
+  LICENSE-MIT         — applies to the source code in this repository
+  LICENSE-CC-BY-SA    — applies to D&D 5e content retrieved from
+                        dnd5e.wikidot.com, which is published under the
+                        Creative Commons Attribution-ShareAlike 3.0 License
+
+The source code does not include or redistribute any game content.
+Content is fetched at runtime from dnd5e.wikidot.com and cached locally.
+Any cached or displayed content remains subject to CC-BY-SA 3.0.
